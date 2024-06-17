@@ -20,6 +20,6 @@ cell.forEach(cell => { cell.addEventListener(
   "mouseenter",
   (event) => {
     event.target.style.backgroundColor = "green";
-  }
-)  
+    }
+  )  
 });
